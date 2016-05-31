@@ -1,4 +1,4 @@
-Summer html image map creator
+在线热区编辑
 =============================
 [http://github.com/summerstyle/summer] (http://github.com/summerstyle/summer)
 
